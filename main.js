@@ -7,7 +7,7 @@ const reset = document.getElementById("resetbtn")
 const choose = document.getElementById("choosebtn")
 const timer = document.getElementById("time_shown")
 let count;
-let timeleft = 3;
+let timeleft = 1500;
 let breakLeft = 300;
 
 function updateClock() {
